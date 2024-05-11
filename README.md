@@ -45,5 +45,5 @@ Replace 'path/to/your/excel/file.xlsx' with the path to your Excel file. Customi
 - reportlab
 
 ## License
-This project is licensed under the MIT License 
+This project is licensed under the MIT License ![License](LICENSE.md) 
 
