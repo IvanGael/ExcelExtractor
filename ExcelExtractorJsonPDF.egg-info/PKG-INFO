@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ExcelExtractorJsonPDF
-Version: 0.1
+Version: 0.2
 Summary: Python package for converting data from Excel to JSON and PDF
 Home-page: https://github.com/IvanGael/ExcelExtractorJsonPDF
 Author: Ivan APEDO
@@ -57,7 +57,7 @@ Replace 'path/to/your/excel/file.xlsx' with the path to your Excel file. Customi
 - reportlab
 
 ## License
-This project is licensed under the MIT License ![License](LICENSE.md) 
+This project is licensed under the MIT License [License](LICENSE.md)
 
 
 
