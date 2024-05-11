@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ExcelExtractor',
+    name='ExcelExtractorJsonPDF',
     version='0.1',
     packages=find_packages(),
     install_requires=[
@@ -13,6 +13,6 @@ setup(
     description='Python package for converting data from Excel to JSON and PDF',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/IvanGael/ExcelExtractor',
+    url='https://github.com/IvanGael/ExcelExtractorJsonPDF',
     license='MIT',
 )
