@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: ExcelExtractor
 Version: 0.1
-Summary: Tools for converting data from Excel to JSON and PDF
+Summary: Python package for converting data from Excel to JSON and PDF
 Home-page: https://github.com/IvanGael/ExcelExtractor
 Author: Ivan APEDO
 Author-email: apedoivan@gmail.com
